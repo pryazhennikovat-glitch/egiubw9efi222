@@ -1,5 +1,5 @@
 def caesar_cipher(text, shift, mode='encrypt'):
-абракадабра    """
+абракадабрик    """
     Шифр Цезаря.
     
     :param text: исходный текст
